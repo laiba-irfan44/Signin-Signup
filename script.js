@@ -1,23 +1,32 @@
+document.addEventListener('DOMContentLoaded', function() {
 document.getElementById('signInForm').addEventListener('submit', signIn);
 document.getElementById('signUpForm').addEventListener('submit', signUp);
+});
 
-function signIn() {
+
+
+function signIn(event) {
     // Validation for Sign In form
+    event.preventDefault();
     const username = document.getElementById('username').value.trim();
-    const password = document.getElementById('password').value.trim();
+    const password = document.getElementById('signinpassword').value.trim();
+    console.log(password);
    //trim used for removal of whitespaces
-    if (username === '' || password === '') {
-        alert('Please enter both username and password.');
+    const passwordRegex = /^(?=.*\d)(?=.*[!@#$%^&*])(?=.*[a-z])(?=.*[A-Z]).{8,}$/;
+    if (!passwordRegex.test(password)) {
+        console.log("Entered");
+        alert('Password must contain at least 8 characters, including at least one uppercase letter, one lowercase letter, one number, and one special character.');
         return false;
     }
 }
 
-function signUp() {
+function signUp(event) {
+    event.preventDefault();
     // Validation for Sign Up form
     const firstName = document.getElementById('firstName').value.trim();
     const lastName = document.getElementById('lastName').value.trim();
     const email = document.getElementById('email').value.trim();
-    const password = document.getElementById('password').value.trim();
+    const password = document.getElementById('signuppassword').value.trim();
     const confirmPassword = document.getElementById('confirmPassword').value.trim();
     const age = document.getElementById('age').value.trim();
     const gender = document.getElementById('gender').value.trim();
