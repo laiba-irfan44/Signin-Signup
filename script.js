@@ -1,19 +1,18 @@
 document.getElementById('signInForm').addEventListener('submit', signIn);
 document.getElementById('signUpForm').addEventListener('submit', signUp);
 
-function signIn(event) {
+function signIn() {
     // Validation for Sign In form
     const username = document.getElementById('username').value.trim();
     const password = document.getElementById('password').value.trim();
-
+   //trim used for removal of whitespaces
     if (username === '' || password === '') {
         alert('Please enter both username and password.');
         return false;
     }
-
 }
 
-function signUp(event) {
+function signUp() {
     // Validation for Sign Up form
     const firstName = document.getElementById('firstName').value.trim();
     const lastName = document.getElementById('lastName').value.trim();
@@ -25,7 +24,7 @@ function signUp(event) {
     const address = document.getElementById('address').value.trim();
     const phone = document.getElementById('phone').value.trim();
 
-    // Basic validation for required fields
+    // Validation for required fields
     if (firstName === '' || lastName === '' || email === '' || password === '' || confirmPassword === '' || age === '' || gender === '' || address === '' || phone === '') {
         alert('Please fill in all the required fields.');
         return false;
@@ -50,8 +49,6 @@ function signUp(event) {
         alert('Please enter a valid age between 18 and 100.');
         return false;
     }
-
-    // Additional validation logic if needed
 
     // If all validations pass, form submission can proceed
     alert('Sign Up successful!');
