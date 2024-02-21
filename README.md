@@ -50,6 +50,11 @@ Consists of multiple fields for creating a new account, including first name, la
 
 
 
+![image](https://github.com/laibairfan22/WebAssignment-1/assets/139337014/33f609d4-a233-4788-b838-4185a2e1dbf9)
+
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## Usage
   
