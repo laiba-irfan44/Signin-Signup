@@ -20,7 +20,7 @@ Consists of multiple fields for creating a new account, including first name, la
 
 ## Screenshots
 
-## _** Sign Up Form**_ 
+## _Sign Up Form_ 
 
 ## _** Sign Up Form - Invalid Submission**_ 
 
