@@ -36,6 +36,7 @@ Consists of multiple fields for creating a new account, including first name, la
 
 
 2.Open index.html in your web browser.
+<br>
 3. Fill out the form fields and submit to see the validation in action.
 
 
