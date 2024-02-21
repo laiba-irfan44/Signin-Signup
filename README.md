@@ -1,6 +1,6 @@
 # WebAssignment#1
 # HTML Form Validation Using JavaScript
-## _**This project demonstrates how to create two HTML forms for signing in and signing up, with front-end validation using JavaScript. The goal is to showcase different input field validations, including checking for empty fields, password strength, email format, and age validation. **_
+## _This project demonstrates how to create two HTML forms for signing in and signing up, with front-end validation using JavaScript. The goal is to showcase different input field validations, including checking for empty fields, password strength, email format, and age validation. _
 
 # Features
 
