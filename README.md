@@ -22,9 +22,9 @@ Consists of multiple fields for creating a new account, including first name, la
 
 ## _Sign Up Form_ 
 
-## _** Sign Up Form - Invalid Submission**_ 
+## _Sign Up Form - Invalid Submission_ 
 
-## _** Sign In Form**_ 
+## _Sign In Form_ 
 
 ## Usage
 Clone the repository:
@@ -33,10 +33,10 @@ Clone the repository:
 
 
 ## Technologies Used
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
 
 ## Credits
-This project was created by [Your Name].
+This project was created by Laiba Irfan
