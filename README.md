@@ -11,15 +11,15 @@ This project demonstrates how to create two HTML forms for signing in and signin
 <br>
 Consists of multiple fields for creating a new account, including first name, last name, email, password, and confirm password. Validates each field according to specific criteria:
 
-_First and last name: Cannot be empty._
+-_First and last name: Cannot be empty._
 <br>
-_Email: Must be in a valid email format._ 
+-_Email: Must be in a valid email format._ 
 <br>
-_Password: Must contain at least 8 characters, including at least one uppercase letter, one lowercase letter, one number, and one special character._ 
+-_Password: Must contain at least 8 characters, including at least one uppercase letter, one lowercase letter, one number, and one special character._ 
 <br>
-_Confirm Password: Must match the password field._ 
+-_Confirm Password: Must match the password field._ 
 <br>
-_Age: Must be a valid number between 18 and 100._ 
+-_Age: Must be a valid number between 18 and 100._ 
 <br>
 
 ## Screenshots
