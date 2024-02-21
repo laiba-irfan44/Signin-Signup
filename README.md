@@ -1,5 +1,6 @@
-# WebAssignment#1
-# HTML Form Validation Using JavaScript
+<a name="readme-top"></a>
+
+# HTML Form Validation Using JavaScript | Introduction
 This project demonstrates how to create two HTML forms for signing in and signing up, with front-end validation using JavaScript. The goal is to showcase different input field validations, including checking for empty fields, password strength, email format, and age validation.
 
 # Features
@@ -25,18 +26,26 @@ Consists of multiple fields for creating a new account, including first name, la
 ## _Sign Up Form - Invalid Submission_ 
 
 ## _Sign In Form_ 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## Usage
-Clone the repository:
+  
+1. Clone This Repository
 
+   ```sh
+https://github.com/laibairfan22/WebAssignment-1.git
+
+2.Open index.html in your web browser.
+
+3. Fill out the form fields and submit to see the validation in action.
 
 
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
+* <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+* <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+* <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Credits
 This project was created by Laiba Irfan
