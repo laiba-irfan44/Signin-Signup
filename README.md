@@ -7,7 +7,7 @@ This project demonstrates how to create two HTML forms for signing in and signin
 ## _**Sign In Form**_
 <br> Includes fields for username and password. Validates that both fields are not empty. 
 
-## _** Sign Up Form**_ 
+## _**Sign Up Form**_ 
 <br>
 Consists of multiple fields for creating a new account, including first name, last name, email, password, and confirm password. Validates each field according to specific criteria:
 
