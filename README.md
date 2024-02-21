@@ -34,8 +34,6 @@ Consists of multiple fields for creating a new account, including first name, la
    ```sh
    https://github.com/laibairfan22/WebAssignment-1.git
 
-   ```sh
-   https://github.com/Dawood-Usman/Cenflix.git
 
 2.Open index.html in your web browser.
 
