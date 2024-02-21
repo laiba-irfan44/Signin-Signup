@@ -21,11 +21,34 @@ Consists of multiple fields for creating a new account, including first name, la
 
 ## Screenshots
 
+![image](https://github.com/laibairfan22/WebAssignment-1/assets/139337014/cac13762-5e99-49c8-bc72-f95ec293de11)
+
+
+## _Sign in Form_
+![image](https://github.com/laibairfan22/WebAssignment-1/assets/139337014/a64dfd1e-d7e2-48e6-a3e9-41cc5828e015)
+
+
+
 ## _Sign Up Form_ 
 
-## _Sign Up Form - Invalid Submission_ 
+![image](https://github.com/laibairfan22/WebAssignment-1/assets/139337014/05b47003-9337-47a1-b80f-5933ab836216)
 
-## _Sign In Form_ 
+
+
+## _Sign Up Form - Invalid Submission_ 
+![image](https://github.com/laibairfan22/WebAssignment-1/assets/139337014/f5f43430-4757-4539-8e9e-3bbc1975c144)
+
+
+![image](https://github.com/laibairfan22/WebAssignment-1/assets/139337014/6f69e79d-e0f3-4b4c-a69e-f51ba253052f)
+
+
+![image](https://github.com/laibairfan22/WebAssignment-1/assets/139337014/ef8b8a34-37f3-4246-b968-a0de1b088605)
+
+
+![image](https://github.com/laibairfan22/WebAssignment-1/assets/139337014/ebbb3a41-bd7e-4d93-ae3d-2c8714dd2f6b)
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## Usage
   
