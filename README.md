@@ -25,7 +25,8 @@ Consists of multiple fields for creating a new account, including first name, la
 
 
 ## _Sign in Form_
-![image](https://github.com/laibairfan22/WebAssignment-1/assets/139337014/a64dfd1e-d7e2-48e6-a3e9-41cc5828e015)
+![image](https://github.com/laibairfan22/WebAssignment-1/assets/139337014/44989679-26c7-44f5-9bc5-f30e66bfb58b)
+
 
 
 
